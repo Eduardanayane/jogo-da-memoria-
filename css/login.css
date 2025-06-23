@@ -55,6 +55,7 @@ h3 {
     font-size: 1em;
     max-width: 300px;
     padding: 15px;
+  margin-bottom: 7px;
 }
 
 .login-button:disabled {
